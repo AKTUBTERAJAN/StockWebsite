@@ -5,8 +5,6 @@ import Brokrage from '../pricing/Brokrage';
 function PricingPage() {
     return ( 
         <>
-            <Hero/>
-            <OpenAccount/>
             <Brokrage/>
         </>
      );

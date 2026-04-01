@@ -5,19 +5,17 @@ import Status from './Status';
 import Pricing from './Pricing';
 import Education from './Education';
 import OpenAccount from '../OpenAccount';
-import Footer from '../Footer';
-import Navbar from '../Navbar';
+import NotFound from '../NotFound';
 
 function HomePage() {
     return (  
-    <>  <Navbar />
+    <> 
         <Hero />
         <Awards /> 
         <Status />
         <Pricing />
         <Education />
         <OpenAccount />
-        <Footer />
 
         </>
     );

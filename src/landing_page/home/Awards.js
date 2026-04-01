@@ -8,10 +8,10 @@ function Awards() {
                 </div>
                 <div className='col-6 p-5 mt-3'>
                     <h2 style={{color:"#424242",fontSize:"25px"}}>Largest stock broker in India</h2>
-                    <p className='mb-5 fs-15'>+2 millian Zerodha clients contribute to over
+                    <p className='mb-5 fs-15 text-muted'>+2 millian Zerodha clients contribute to over
                          15% of all volume in India daily by treding and investing in:</p>
-                         <div className='row fs-15'>
-                            <div className='col-6'>
+                         <div className='row fs-15 text-muted'>
+                            <div className='col-6 '>
                                 <ul>
                                     <li>
                                         <p>Futures and Options</p>
