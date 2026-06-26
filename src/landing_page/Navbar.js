@@ -5,7 +5,7 @@ function Navbar() {
       <nav class="navbar navbar-expand-lg border-bottom  " style={{backgroundColor:"#FFF"}}>
         <div class="container p-2">
           <Link class="navbar-brand" to={"/"}>
-            <img src="media/logo.svg" alt="Logo" style={{width:"25%"}}></img>
+            <img src="media/logo.png"  alt="TradePath Logo" style={{width:"70%"}}></img>
           </Link>
           <button
             class="navbar-toggler"
@@ -45,6 +45,16 @@ function Navbar() {
               <li class="nav-item">
                 <Link class="nav-link active" to="/support">
                   Support
+                </Link>
+              </li>
+              <li class="nav-item">
+                <Link class="nav-link active" to="/contact">
+                  ContactUs
+                </Link>
+              </li>
+              <li class="nav-item">
+                <Link class="nav-link active" to="/Openaccount">
+                  OpenAccount
                 </Link>
               </li>
               

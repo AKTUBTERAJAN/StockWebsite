@@ -6,14 +6,14 @@ function Status() {
                <div className='col-6 p-5'>
                 <h1 className='fs-3 mb-4'>Trust with confidence</h1>
                 <h2 className='fs-5'>Custumer-first always</h2>
-                <p className='text-muted'>That's why 1.3+ core customers trust Zerodha with 3.5+
+                <p className='text-muted'>That's why 1.3+ core customers trust TradePath with 3.5+
                     lakh crores worth of equity investor.
                 </p>
                 <h2 className='fs-5'>No spam or gimmicks</h2>
                 <p className='text-muted'>No gimmicks spam, "gamification" or annoying push notifications.
                     High quality apps that you use at your place  .
                 </p>
-                <h2 className='fs-5'>The Zerodha universe</h2>
+                <h2 className='fs-5'>The TradePath universe</h2>
                 <p className='text-muted'>Not just an app, but a whole ecosystem. Our environments in 30+ fintech startups
                     offer you tailored service specific to you needs.
                 </p>

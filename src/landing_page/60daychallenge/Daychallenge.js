@@ -1,24 +1,19 @@
 import React from 'react';
 import Hero from './Hero';
-import CreateTicket from './CreateTicket';
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
-
-
-function Support() {
-     const { pathname } = useLocation();
+function Daychallenge() {
+    const { pathname } = useLocation();
         useEffect(() => {
             window.scrollTo(0, 0);
-        }, 
-        [pathname]);
+    }, 
+    [pathname]);
     return ( 
-        <>
-            <Hero/>
-            <CreateTicket/>
-            
+        <>  
+            <Hero />
         </>
      );
 }
 
-export default Support;
+export default Daychallenge;

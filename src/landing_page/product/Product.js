@@ -3,8 +3,15 @@ import Hero from './Hero';
 import LeftSecusion from './LeftSecusion';
 import RightSecusion from './RightSecusion';
 import Universe from './Universe';
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 
 function Product() {
+    const { pathname } = useLocation();
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, 
+    [pathname]);
     return ( 
         <>
             <Hero/>
@@ -20,7 +27,7 @@ function Product() {
             <RightSecusion
                 imageURL="media/console.png" 
                 productName="Console" 
-                productDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations."
+                productDescription="The central dashboard for your TradePath account. Gain insights into your trades and investments with in-depth reports and visualisations."
                 learnMore="" 
                 
             />
@@ -49,7 +56,7 @@ function Product() {
                 googlePlay="" 
                 appStore=""
             />
-            <p style={{textAlignLast:"center"}}>Want to know more about our technology stack? Check out the Zerodha.tech blog.</p>
+            <p style={{textAlignLast:"center"}}>Want to know more about our technology stack? Check out the TradePath.tech blog.</p>
             <Universe/>
         </>
      );
