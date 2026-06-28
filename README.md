@@ -50,14 +50,14 @@ This project demonstrates a complete MERN Stack application with separate fronte
     7.OpenAccount
 
 # 1.Signup and Signin
-#    Sign Up Page
-#    Title: Create Your Account
- #   Description:
+    Sign Up Page
+    Title: Create Your Account
+    Description:
                 Join TradePath Fund House to start your investment journey. Create your account to access personalized investment solutions, track your portfolio, and manage your financial goals securely.
 
-#    Sign In Page
-#    Title:Welcome Back
-#    Description:
+    Sign In Page
+    Title:Welcome Back
+    Description:
                 Sign in to your TradePath Fund House account to access your dashboard, monitor your investments, view portfolio performance, and manage your account securely.
 
 # 2.Aboutus
