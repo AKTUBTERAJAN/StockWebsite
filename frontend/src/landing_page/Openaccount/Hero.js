@@ -22,8 +22,8 @@ function Hero() {
   e.preventDefault();
 
   try {
-    const response = await axios.post(
-      "http://localhost:3002/openaccount",
+      const response = await axios.post(
+      `${process.env.REACT_APP_API_URL}/openaccount`,
       formData
     );
 
