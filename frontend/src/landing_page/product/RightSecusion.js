@@ -16,7 +16,7 @@ function RightSecustion({imageURL,productName,productDescription,tryDemo,learnMo
                    
                 </div>
                 <div className='col-6'>
-                    <img src={imageURL} />
+                    <img src={imageURL} alt={productName} />
                 </div>
             </div>
         </div>
