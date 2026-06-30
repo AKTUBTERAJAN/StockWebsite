@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:3002';
-const DASHBOARD_URL = process.env.REACT_APP_DASHBOARD_URL || 'http://localhost:3001';
+const API_URL = process.env.REACT_APP_API_URL || 'https://stockwebsite-backend.onrender.com';
+const DASHBOARD_URL = process.env.REACT_APP_DASHBOARD_URL || 'https://stockwebsite-dashboard.vercel.app';
 
 function AuthForm() {
   const [mode, setMode] = useState('signup');
