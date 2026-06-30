@@ -8,7 +8,10 @@ function RightSecustion({imageURL,productName,productDescription,tryDemo,learnMo
                     <h1>{productName}</h1>
                     <p>{productDescription}</p>
                     <div>
-                        <a href={learnMore} style={{textDecoration:"none"}}>Learn More <a href='/'><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></a>
+                        <a href={learnMore} style={{ textDecoration: "none" }}>
+                            Learn More{" "}
+                            <i className="fa fa-long-arrow-right" aria-hidden="true"></i>
+                        </a>
                     </div>
                    
                 </div>
