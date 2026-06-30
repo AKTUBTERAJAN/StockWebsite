@@ -5,7 +5,6 @@ import Status from './Status';
 import Pricing from './Pricing';
 import Education from './Education';
 import OpenAccount from '../OpenAccount';
-import NotFound from '../NotFound';
 
 function HomePage() {
     return (  

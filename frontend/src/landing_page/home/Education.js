@@ -4,7 +4,7 @@ function Education() {
         <div className='container mt-5'style={{color:"#424242"}}>
             <div className='row'>
                  <div className='col-6'>
-                    <img src='media\education.svg' style={{width:"90%"}}></img>
+                    <img src='media\education.svg' alt='education' style={{width:"90%"}}></img>
                 </div>
                 <div className='col-6'>
                     <h2 className='mb-3 fs-3'>Free and open market education</h2>

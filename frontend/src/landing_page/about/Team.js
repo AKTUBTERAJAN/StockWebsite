@@ -8,7 +8,7 @@ function Team() {
             <div className='row p-5 mt-5' >
                 <div className='col-2'></div>
                 <div className='col-4 text-muted text-center' style={{lineHeight:".5",fontSize:"1em"}}>
-                   <img src='media/RajanW.png'></img>
+                   <img src='media/RajanW.png' alt='Treadpath'></img>
                    <p >Rajan Kushwaha</p>
                    <p>Founder</p>
                 </div>
