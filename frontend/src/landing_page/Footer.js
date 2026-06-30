@@ -96,19 +96,19 @@ function Footer() {
                     <a href='https://legaldocs.co.in/terms-and-conditions-generator'className='text-muted' style={{textDecoration:"none",textWrap:"nowrap"}}>Terms & condition</a><br/>
                 </div>
                 <div className='col'>
-                    <a href=''className='text-muted' style={{textDecoration:"none",textWrap:"nowrap"}}>Policies & procedures </a><br/>
+                    <a href='/'className='text-muted' style={{textDecoration:"none",textWrap:"nowrap"}}>Policies & procedures </a><br/>
                 </div>
                 <div className='col'>
-                    <a href=''className='text-muted' style={{textDecoration:"none",textWrap:"nowrap"}}>Privacy policy</a><br/>
+                    <a href='/'className='text-muted' style={{textDecoration:"none",textWrap:"nowrap"}}>Privacy policy</a><br/>
                 </div>
                 <div className='col'>
-                    <a href=''className='text-muted' style={{textDecoration:"none"}}>Disclosure</a><br/>
+                    <a href='/'className='text-muted' style={{textDecoration:"none"}}>Disclosure</a><br/>
                 </div>
                 <div className='col'>
-                    <a href=''className='text-muted' style={{textDecoration:"none",textWrap:"nowrap"}}>For investor's attention </a><br/>
+                    <a href='/'className='text-muted' style={{textDecoration:"none",textWrap:"nowrap"}}>For investor's attention </a><br/>
                 </div>
                 <div className='col'>
-                    <a href=''className='text-muted' style={{textDecoration:"none",textWrap:"nowrap"}}>Investor charter</a><br/>
+                    <a href='/'className='text-muted' style={{textDecoration:"none",textWrap:"nowrap"}}>Investor charter</a><br/>
                 </div>
                 <div className='col'></div>
                 

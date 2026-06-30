@@ -10,13 +10,13 @@ function Education() {
                     <h2 className='mb-3 fs-3'>Free and open market education</h2>
                     <p> Varsity, the largest online stock education book in the world 
                         covering everything from the basics to advance trading. </p>
-                    <a href=''className='p-3' style={{textDecoration:"none"}}>Versity 
+                    <a href='/'className='p-3' style={{textDecoration:"none"}}>Versity 
                         <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                     </a>
                     
                     <p className='mt-5'> TradingQ&A, the most active trading and investment community in 
                         India for all your market related queries. </p>
-                    <a href=''className='p-3' style={{textDecoration:"none"}}>TradingQ&A 
+                    <a href='/'className='p-3' style={{textDecoration:"none"}}>TradingQ&A 
                         <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                     </a>
                 </div>

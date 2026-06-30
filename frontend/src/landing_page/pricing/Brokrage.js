@@ -4,7 +4,7 @@ function Brokrage () {
         <div className='container p-5'style={{color:"#424242",fontSize:"14px"}}>
             <div className='row p-5 mt-2 border-top'>
                 <div className='col-8 p-4'>
-                    <a href='' style={{textDecoration:'none'}}>
+                    <a href='/' style={{textDecoration:'none'}}>
                     <h3 className='fs-5'>Brokrage Calculator</h3>
                     </a>
                     <ul style={{lineHeight:"2.5"}}>
@@ -29,7 +29,7 @@ function Brokrage () {
                     </ul>
                 </div>
                 <div className='col-4 p-4'>
-                    <a href='' style={{textDecoration:'none'}}>
+                    <a href='/' style={{textDecoration:'none'}}>
                     <h3 className='fs-5'>List of charges</h3>
                     </a>
                 </div>
